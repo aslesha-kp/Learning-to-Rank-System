@@ -1,0 +1,16 @@
+{
+  "mode": "folds",
+  "num_features": 136,
+  "k": 10,
+  "seed": 42,
+  "train": null,
+  "valid": null,
+  "test": null,
+  "fold_dirs": [
+    "MSLR-WEB10K/Fold1",
+    "MSLR-WEB10K/Fold2",
+    "MSLR-WEB10K/Fold3",
+    "MSLR-WEB10K/Fold4",
+    "MSLR-WEB10K/Fold5"
+  ]
+}
